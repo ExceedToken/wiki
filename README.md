@@ -1,3 +1,3 @@
 # Exceed (EXC) Wiki 
-#Where To Begin
+# Where to start 
 Read the whitepaper and roadmap at: https://www.exceed-io.com
